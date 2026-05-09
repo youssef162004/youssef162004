@@ -3,7 +3,7 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:F8FAFC,45:DBEAFE,100:E0F2FE&height=285&section=header&text=Youssef%20Ali&fontSize=74&fontColor=0F172A&fontAlignY=40&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Automation&descSize=20&descAlignY=62&descColor=1E3A8A&animation=scaleIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0F172A&height=285&section=header&text=Youssef%20Ali&fontSize=74&fontColor=F8FAFC&fontAlignY=40&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Automation&descSize=20&descAlignY=62&descColor=60A5FA&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
@@ -11,18 +11,18 @@
 <div align="center">
 
   <a href="mailto:youssef.ali.dev@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-youssef.ali.dev%40outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
+    <img src="https://img.shields.io/badge/Gmail-youssef.ali.dev%40outlook.com-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/youssef-elsawah-6317a225a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-60A5FA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
   </a>
   &nbsp;
   <a href="https://github.com/youssef162004">
-    <img src="https://img.shields.io/badge/GitHub-youssef162004-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
+    <img src="https://img.shields.io/badge/GitHub-youssef162004-60A5FA?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=youssef162004&style=for-the-badge&color=1E3A8A&labelColor=0F172A&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=youssef162004&style=for-the-badge&color=1E3A5F&labelColor=0F172A&label=Profile+Views" />
 
 </div>
 
@@ -101,8 +101,8 @@ I also care about **automation** because many business problems are not only ana
 
 ### Business Intelligence & Reporting
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" />
-<img src="https://img.shields.io/badge/DAX-1E3A8A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=0F172A" />
+<img src="https://img.shields.io/badge/DAX-1E3A5F?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logoColor=white" />
@@ -110,20 +110,20 @@ I also care about **automation** because many business problems are not only ana
 
 ### Programming & Data Analysis
 
-<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F2C811" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-1E3A8A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Python-1E3A5F?style=for-the-badge&logo=python&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Pandas-1E3A5F?style=for-the-badge&logo=pandas&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/NumPy-1E3A5F?style=for-the-badge&logo=numpy&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logoColor=60A5FA" />
 
 ### Analytics Concepts & Automation
 
-<img src="https://img.shields.io/badge/EDA-111827?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Statistics-1E3A8A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/KPI%20Analysis-F2C811?style=for-the-badge&logoColor=111827" />
+<img src="https://img.shields.io/badge/EDA-0F172A?style=for-the-badge&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Statistics-1E3A5F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/KPI%20Analysis-F2C811?style=for-the-badge&logoColor=0F172A" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/API%20Integration-1E3A8A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Automated%20Reporting-0F172A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Integration-1E3A5F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Automated%20Reporting-0F172A?style=for-the-badge&logoColor=60A5FA" />
 
 </div>
 
@@ -141,7 +141,7 @@ I also care about **automation** because many business problems are not only ana
 <tr>
 <td>
 
-### Data Analyst Trainee · Instant Software Solutions  
+### Data Analyst Trainee · Instant Software Solutions
 `Feb 2026 – Jul 2026` · Egypt
 
 During this training, I practiced the full data analysis workflow using real-world business scenarios: cleaning data, querying databases, analyzing trends, building dashboards, and preparing reports that explain insights clearly.
@@ -245,16 +245,16 @@ Automation helps businesses move from slow manual reporting to faster, repeatabl
   <tr>
     <td width="50%" valign="top">
 
-### 🛒 Ecommerce Analytics Dashboard  
+### 🛒 Ecommerce Analytics Dashboard
 `Excel` · `Power Query` · `Pivot Tables` · `Data Visualization`
 
-**Problem:**  
+**Problem:**
 Raw e-commerce transactions were difficult to analyze manually, making it hard to quickly understand revenue, orders, product performance, and regional trends.
 
-**What I Built:**  
+**What I Built:**
 An interactive Excel dashboard analyzing **500+ transactions** with cleaned data, dynamic Pivot Tables, slicers, KPI cards, and visual summaries.
 
-**Impact:**  
+**Impact:**
 - Improved data accuracy by around **40%**
 - Reduced manual preparation time by **2 hours per reporting cycle**
 - Identified top-performing categories and regional sales patterns
@@ -263,16 +263,16 @@ An interactive Excel dashboard analyzing **500+ transactions** with cleaned data
 </td>
 <td width="50%" valign="top">
 
-### 🚲 Bike Stores Sales Report  
+### 🚲 Bike Stores Sales Report
 `Power BI` · `DAX` · `Data Modeling` · `BI`
 
-**Problem:**  
+**Problem:**
 Sales data was spread across multiple sources, making it difficult to compare stores, track revenue, and understand customer contribution.
 
-**What I Built:**  
+**What I Built:**
 A Power BI reporting model with **10+ DAX measures** covering revenue, quantity sold, average order value, customer contribution, and month-over-month growth.
 
-**Impact:**  
+**Impact:**
 - Revealed a **22% Q4 sales peak** linked to seasonal promotions
 - Identified top **20% of customers driving 60% of revenue**
 - Improved visibility into store and customer performance
@@ -283,16 +283,16 @@ A Power BI reporting model with **10+ DAX measures** covering revenue, quantity 
   <tr>
     <td width="50%" valign="top">
 
-### 📱 Instagram Engagement Analysis  
+### 📱 Instagram Engagement Analysis
 `Python` · `Pandas` · `NumPy` · `Matplotlib` · `EDA`
 
-**Problem:**  
+**Problem:**
 Content decisions were based on intuition rather than data, making it difficult to know which post formats were performing best.
 
-**What I Built:**  
+**What I Built:**
 A full Python EDA pipeline analyzing **1,000+ Instagram posts**, including cleaning, correlation analysis, and visual trend exploration.
 
-**Impact:**  
+**Impact:**
 - Found carousel posts outperformed single images by **38% on average**
 - Identified engagement patterns linked to content type and timing
 - Created reproducible visualizations for content strategy
@@ -301,20 +301,20 @@ A full Python EDA pipeline analyzing **1,000+ Instagram posts**, including clean
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Analytics Automation Workflows  
+### 🤖 Analytics Automation Workflows
 `n8n` · `APIs` · `Automation` · `Reporting`
 
-**Focus:**  
+**Focus:**
 Using automation to support business analysis by reducing repetitive tasks and connecting data sources to reporting workflows.
 
-**What I Can Automate:**  
+**What I Can Automate:**
 - Pulling data from APIs or forms into spreadsheets/databases
 - Preparing recurring report inputs
 - Sending scheduled report updates
 - Triggering alerts when KPIs change
 - Connecting dashboards, sheets, and communication tools
 
-**Business Value:**  
+**Business Value:**
 - Less manual work
 - Faster reporting cycles
 - Fewer human errors
@@ -336,13 +336,13 @@ Using automation to support business analysis by reducing repetitive tasks and c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=youssef162004&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1E3A8A&icon_color=F59E0B&text_color=334155&bg_color=F8FAFC" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=youssef162004&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=60A5FA&icon_color=60A5FA&text_color=1E3A5F&bg_color=F8FAFC" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef162004&layout=compact&hide_border=true&title_color=1E3A8A&text_color=334155&bg_color=F8FAFC" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef162004&layout=compact&hide_border=true&title_color=60A5FA&text_color=1E3A5F&bg_color=F8FAFC" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=youssef162004&hide_border=true&background=F8FAFC&ring=1E3A8A&fire=F59E0B&currStreakLabel=1E3A8A&sideLabels=334155&dates=475569&currStreakNum=0F172A&sideNums=0F172A" height="170"/>
+<img src="https://streak-stats.demolab.com?user=youssef162004&hide_border=true&background=F8FAFC&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=1E3A5F&dates=475569&currStreakNum=0F172A&sideNums=0F172A" height="170"/>
 
 </div>
 
@@ -404,19 +404,19 @@ I am interested in roles where I can combine **data analysis, business intellige
 <br/>
 
 <a href="mailto:youssef.ali.dev@outlook.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Send%20an%20Email-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/youssef-elsawah-6317a225a">
-  <img src="https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/LinkedIn%20Profile-60A5FA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
 </a>
 &nbsp;
 <a href="https://github.com/youssef162004">
-  <img src="https://img.shields.io/badge/GitHub%20Profile-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/GitHub%20Profile-60A5FA?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,45:DBEAFE,100:F8FAFC&height=120&section=footer&text=Data%20%E2%86%92%20Insight%20%E2%86%92%20Automation%20%E2%86%92%20Decision&fontSize=17&fontColor=0F172A&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0F172A&height=120&section=footer&text=Data%20%E2%86%92%20Insight%20%E2%86%92%20Automation%20%E2%86%92%20Decision&fontSize=17&fontColor=60A5FA&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
