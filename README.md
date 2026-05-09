@@ -49,7 +49,7 @@ Core Stack : SQL · Python · Power BI · Excel · Statistics
 Automation : n8n · APIs · Automated Reporting · Workflow Optimization
 Focus      : From messy data to business-ready decisions
 Location   : Egypt
-Goal       : Data Analyst / BI role in Egypt or the GCC region
+Goal       : Data Analyst / BI role where I can create business impact
 ```
 
 I am a **Data Analyst** focused on the full analytics lifecycle: collecting data, cleaning it, transforming it, analyzing trends, building KPI dashboards, and presenting insights in a clear way that helps teams make better decisions.
@@ -356,15 +356,36 @@ Using automation to support business analysis by reducing repetitive tasks and c
 
 ## 🧠 Beyond the Tools
 
-```python
-analyst = {
-    "communication": ["Data Storytelling", "Presenting Insights", "Report Writing"],
-    "business_focus": ["KPI Thinking", "Decision Support", "Actionable Recommendations"],
-    "problem_solving": ["Root Cause Analysis", "Analytical Thinking", "Critical Thinking"],
-    "automation": ["Workflow Automation", "API Integration", "Automated Reporting"],
-    "work_style": ["Attention to Detail", "Team Collaboration", "Time Management", "Adaptability"],
-}
-```
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💬 Communication</h3>
+      <p>Data storytelling, insight presentation, report writing, and explaining technical findings in a simple business-friendly way.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎯 Business Thinking</h3>
+      <p>KPI thinking, decision support, asking the right business questions, and turning analysis into actionable recommendations.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧩 Problem Solving</h3>
+      <p>Root cause analysis, analytical thinking, critical thinking, and breaking complex problems into clear steps.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⚙️ Automation Mindset</h3>
+      <p>Workflow automation, API integration, automated reporting, and reducing repetitive manual tasks.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤝 Collaboration</h3>
+      <p>Working with teams, understanding stakeholder needs, and presenting insights to both technical and non-technical audiences.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🚀 Work Style</h3>
+      <p>Attention to detail, time management, adaptability, self-learning, and continuous improvement.</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -376,7 +397,7 @@ analyst = {
 
 <div align="center">
 
-## Open to Data Analyst opportunities in Egypt and the GCC region
+## Open to Data Analyst opportunities
 
 I am interested in roles where I can combine **data analysis, business intelligence, dashboard development, and automation** to help teams make better decisions faster.
 
