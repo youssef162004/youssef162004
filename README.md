@@ -1,129 +1,203 @@
 <h1 align="center">Hi 👋, I'm Youssef Ali</h1>
 
-<h3 align="center">
-Aspiring Software Developer | Frontend Developer | Problem Solver
-</h3>
+<h3 align="center">Data Analyst | SQL • Python • Power BI • Excel</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:youssef.ali.dev@outlook.com">
+    <img src="https://img.shields.io/badge/Email-youssef.ali.dev%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/youssef-elsawah-6317a225a">
+    <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/youssef162004">
+    <img src="https://img.shields.io/badge/GitHub-youssef162004-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=youssef162004&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I’m a passionate developer interested in building clean, useful, and modern software.
+I am a detail-oriented **Data Analyst** with hands-on experience in **SQL, Python, Excel, Power BI, statistical analysis, KPI reporting, and interactive dashboard development**.
 
-- 💻 I’m currently learning **Web Development**
-- 🚀 Interested in **Frontend Development, Backend Development, and AI**
-- 📚 Always improving my skills through real projects
-- 🎯 Goal: Build professional projects and become a strong software engineer
-- 📍 Based in Egypt
+I enjoy transforming raw data into clear insights, building dashboards that support business decisions, and communicating findings in a simple, actionable way for both technical and non-technical stakeholders.
+
+- 🎓 Bachelor of Computer Science — Software Engineering  
+- 📍 Based in Egypt  
+- 📊 Interested in Data Analytics, Business Intelligence, and Dashboard Development  
+- 🧠 Skilled in data cleaning, EDA, data transformation, KPI analysis, and reporting  
+- 🎯 Goal: Contribute analytical expertise within a data-driven organization in the GCC region  
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Skills
 
-### Frontend Development
+### Data Analysis & Statistics
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KPI%20Analysis-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-2E7D32?style=for-the-badge" />
 </p>
 
-### Programming
+### BI & Reporting Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
+  <img src="https://img.shields.io/badge/DAX-1177AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+</p>
+
+### Programming & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database%20Management-003B57?style=for-the-badge" />
 </p>
 
-### Tools
+### Automation & Integration
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Integration-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automated%20Reporting-6A1B9A?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
+
+### Data Analyst Trainee — Instant Software Solutions  
+**Feb 2026 – Jul 2026**
+
+- Performed data cleaning, transformation, and exploratory data analysis using **Python** and **SQL**.
+- Reduced data inconsistencies by an estimated **35%** across processed files.
+- Built **3+ interactive Power BI dashboards** tracking revenue, orders, and customer segmentation.
+- Reduced weekly reporting preparation time from **3 hours to under 30 minutes**.
+- Used SQL to extract and prepare relational database data for analysis and visualization.
+- Applied statistical analysis to identify trends, correlations, and outliers.
+- Used Excel, Pivot Tables, Power Query, and advanced formulas for KPI reporting and reconciliation.
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Ecommerce Analytics Dashboard  
+**Excel • Power Query • Pivot Tables • Data Visualization**
+
+Built an interactive Excel dashboard analyzing **500+ e-commerce transactions** to track revenue, order volume, and product performance.
+
+**Highlights**
+- Cleaned and transformed raw sales data using Power Query.
+- Improved data accuracy by approximately **40%**.
+- Reduced manual preparation time by **2 hours per reporting cycle**.
+- Identified top-performing categories and regional sales patterns.
+
+---
+
+### 🚲 Bike Stores Sales Report  
+**Power BI • DAX • Data Modeling • Business Intelligence**
+
+Designed a Power BI reporting solution to consolidate sales data from multiple sources and enable unified cross-store reporting.
+
+**Highlights**
+- Created **10+ DAX measures** for revenue, quantity sold, average order value, and month-over-month growth.
+- Revealed a **22% Q4 sales peak** linked to seasonal promotions.
+- Identified the top **20% of customers driving 60% of revenue**.
+- Supported targeted retention strategy through interactive dashboards.
+
+---
+
+### 📱 Instagram Engagement Analysis  
+**Python • Pandas • NumPy • Matplotlib • EDA • Statistics**
+
+Analyzed **1,000+ Instagram posts** using Python and statistical methods to identify engagement drivers.
+
+**Highlights**
+- Built a full EDA workflow using Pandas, NumPy, and Matplotlib.
+- Found that carousel posts outperformed single images by **38% on average**.
+- Used statistical correlation analysis to discover engagement patterns.
+- Visualized content performance trends for clearer decision-making.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=youssef162004&show_icons=true&theme=tokyonight&hide_border=true" 
     alt="GitHub Stats" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef162004&layout=compact&theme=tokyonight&hide_border=true" 
     alt="Top Languages" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" 
+    src="https://streak-stats.demolab.com?user=youssef162004&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak" 
   />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Professional Skills
 
-### 🛒 E-Commerce Website
-
-A modern e-commerce website with product cards, cart UI, and responsive design.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
----
-
-### ✅ To-Do List App
-
-A simple productivity app to add, delete, and manage daily tasks.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
----
-
-### 🌐 Personal Portfolio
-
-A personal website to showcase my skills, projects, and contact information.
-
-**Tech Stack:** HTML, CSS, JavaScript
+- Data Storytelling  
+- Presenting insights to non-technical stakeholders  
+- Report Writing  
+- Cross-functional Collaboration  
+- Analytical Thinking  
+- Critical Thinking  
+- Attention to Detail  
+- Root Cause Analysis  
+- Team Collaboration  
+- Time Management  
+- Adaptability  
+- Leadership  
 
 ---
 
-## 📫 Connect With Me
+## 🌍 Languages
+
+- Arabic: Native  
+- English: Intermediate — B1  
+
+---
+
+## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="mailto:youssef.ali.dev@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <a href="https://www.linkedin.com/in/youssef-elsawah-6317a225a">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
+<h3 align="center">Thanks for visiting my profile 🚀</h3>
 
-<h3 align="center">Thanks for visiting my profile ❤️</h3>
+<p align="center">
+  <i>Turning data into decisions.</i>
+</p>
