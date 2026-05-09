@@ -1,203 +1,172 @@
-<h1 align="center">Hi 👋, I'm Youssef Ali</h1>
+<div align="center">
 
-<h3 align="center">Data Analyst | SQL • Python • Power BI • Excel</h3>
+<!-- ═══════════════════════════════════════════ -->
+<!--              HERO SECTION                  -->
+<!-- ═══════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="mailto:youssef.ali.dev@outlook.com">
-    <img src="https://img.shields.io/badge/Email-youssef.ali.dev%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/youssef-elsawah-6317a225a">
-    <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/youssef162004">
-    <img src="https://img.shields.io/badge/GitHub-youssef162004-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052CC,100:00B4D8&height=200&section=header&text=Youssef%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Decisions&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssef162004&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-youssef.ali.dev%40outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youssef.ali.dev@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Ali-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-elsawah-6317a225a)
+[![GitHub](https://img.shields.io/badge/GitHub-youssef162004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/youssef162004)
+[![Profile Views](https://komarev.com/ghpvc/?username=youssef162004&style=flat-square&color=0052CC)](https://github.com/youssef162004)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 
-I am a detail-oriented **Data Analyst** with hands-on experience in **SQL, Python, Excel, Power BI, statistical analysis, KPI reporting, and interactive dashboard development**.
+I'm a **Data Analyst** with a Computer Science background (Software Engineering), passionate about transforming messy, complex data into clear insights that drive smart business decisions.
 
-I enjoy transforming raw data into clear insights, building dashboards that support business decisions, and communicating findings in a simple, actionable way for both technical and non-technical stakeholders.
+I work across the full analytics workflow — from raw data ingestion and cleaning, through exploratory analysis and statistical modeling, to interactive dashboards and executive-ready reports. I focus equally on the technical depth and the ability to communicate findings to non-technical stakeholders.
 
-- 🎓 Bachelor of Computer Science — Software Engineering  
-- 📍 Based in Egypt  
-- 📊 Interested in Data Analytics, Business Intelligence, and Dashboard Development  
-- 🧠 Skilled in data cleaning, EDA, data transformation, KPI analysis, and reporting  
-- 🎯 Goal: Contribute analytical expertise within a data-driven organization in the GCC region  
+| | |
+|---|---|
+| 🎓 **Education** | B.Sc. Computer Science — Software Engineering, King Salman International University *(Oct 2022 – Jul 2026)* |
+| 🏅 **Grade** | Very Good · Graduation Project: **Excellent** |
+| 📍 **Location** | Egypt |
+| 🎯 **Goal** | Join a data-driven organization in **Egypt or the GCC region** to contribute analytical expertise at scale |
+| 🌐 **Languages** | Arabic (Native) · English (B1 — Intermediate) |
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Data Analysis & Statistics
+### 📊 Analytics & Business Intelligence
 
-<p>
-  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Cleaning-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/KPI%20Analysis-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-2E7D32?style=for-the-badge" />
-</p>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000)
+![DAX](https://img.shields.io/badge/DAX-1177AA?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
-### BI & Reporting Tools
+### 🐍 Programming & Data Libraries
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
-  <img src="https://img.shields.io/badge/DAX-1177AA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
 
-### Programming & Databases
+### 🔬 Analysis Methods
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database%20Management-003B57?style=for-the-badge" />
-</p>
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-4B8BBE?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-0052CC?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-02569B?style=flat-square)
+![KPI Reporting](https://img.shields.io/badge/KPI%20Reporting-FF6F00?style=flat-square)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-003B57?style=flat-square)
 
-### Automation & Integration
+### ⚙️ Automation & Integration
 
-<p>
-  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Integration-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automated%20Reporting-6A1B9A?style=for-the-badge" />
-</p>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![API Integration](https://img.shields.io/badge/API%20Integration-0052CC?style=flat-square)
+![Automated Reporting](https://img.shields.io/badge/Automated%20Reporting-6A1B9A?style=flat-square)
 
 ---
 
 ## 💼 Experience
 
-### Data Analyst Trainee — Instant Software Solutions  
-**Feb 2026 – Jul 2026**
+### Data Analyst Trainee — Instant Software Solutions
+**Feb 2026 – Jul 2026 · Egypt**
 
-- Performed data cleaning, transformation, and exploratory data analysis using **Python** and **SQL**.
-- Reduced data inconsistencies by an estimated **35%** across processed files.
-- Built **3+ interactive Power BI dashboards** tracking revenue, orders, and customer segmentation.
-- Reduced weekly reporting preparation time from **3 hours to under 30 minutes**.
-- Used SQL to extract and prepare relational database data for analysis and visualization.
-- Applied statistical analysis to identify trends, correlations, and outliers.
-- Used Excel, Pivot Tables, Power Query, and advanced formulas for KPI reporting and reconciliation.
+Working within a professional analytics environment, contributing to data pipelines, reporting systems, and dashboard development from end to end.
+
+- 🧹 **Data Quality:** Performed data cleaning, transformation, and EDA using Python and SQL — reducing data inconsistencies by an estimated **35%** across processed datasets.
+- 📊 **Dashboards:** Built **3+ interactive Power BI dashboards** tracking revenue, orders, and customer segmentation for business stakeholders.
+- ⏱️ **Efficiency:** Cut weekly reporting preparation time from **3 hours to under 30 minutes** through automation and streamlined workflows.
+- 🗄️ **Database Work:** Used SQL to extract and prepare relational data for downstream analysis and visualization.
+- 📈 **Statistical Analysis:** Applied statistical methods to identify trends, correlations, and outliers across business datasets.
+- 📋 **Reporting:** Delivered KPI reports using Excel, Pivot Tables, Power Query, and advanced formulas.
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 Ecommerce Analytics Dashboard  
-**Excel • Power Query • Pivot Tables • Data Visualization**
+---
 
-Built an interactive Excel dashboard analyzing **500+ e-commerce transactions** to track revenue, order volume, and product performance.
+### 🛒 Ecommerce Analytics Dashboard
+`Excel` `Power Query` `Pivot Tables` `Data Visualization`
 
-**Highlights**
-- Cleaned and transformed raw sales data using Power Query.
-- Improved data accuracy by approximately **40%**.
-- Reduced manual preparation time by **2 hours per reporting cycle**.
-- Identified top-performing categories and regional sales patterns.
+**The Problem:** A business was tracking 500+ e-commerce transactions manually with no centralized view of revenue trends, order volumes, or product performance.
+
+**What I Built:** A fully interactive Excel dashboard consolidating raw sales data into a unified reporting layer — with drill-down filters, KPI cards, and visual charts.
+
+**Key Results:**
+- 📐 Cleaned and transformed raw transactional data using Power Query, improving data accuracy by ~**40%**
+- ⏳ Reduced manual reporting preparation time by **2 hours per cycle**
+- 🏆 Identified top-performing product categories and surfaced regional sales patterns
 
 ---
 
-### 🚲 Bike Stores Sales Report  
-**Power BI • DAX • Data Modeling • Business Intelligence**
+### 🚲 Bike Stores Sales Report
+`Power BI` `DAX` `Data Modeling` `Business Intelligence`
 
-Designed a Power BI reporting solution to consolidate sales data from multiple sources and enable unified cross-store reporting.
+**The Problem:** Sales data was scattered across multiple store sources with no unified view, making cross-store performance comparison impossible.
 
-**Highlights**
-- Created **10+ DAX measures** for revenue, quantity sold, average order value, and month-over-month growth.
-- Revealed a **22% Q4 sales peak** linked to seasonal promotions.
-- Identified the top **20% of customers driving 60% of revenue**.
-- Supported targeted retention strategy through interactive dashboards.
+**What I Built:** A Power BI reporting solution with a clean data model, 10+ custom DAX measures, and interactive dashboards enabling unified, real-time cross-store analysis.
+
+**Key Results:**
+- 📅 Revealed a **22% Q4 sales peak** attributable to seasonal promotions — enabling proactive planning
+- 👥 Identified the top **20% of customers driving 60% of total revenue** — supporting targeted retention strategy
+- 📐 Created measures for revenue, quantity sold, average order value, and month-over-month growth
 
 ---
 
-### 📱 Instagram Engagement Analysis  
-**Python • Pandas • NumPy • Matplotlib • EDA • Statistics**
+### 📱 Instagram Engagement Analysis
+`Python` `Pandas` `NumPy` `Matplotlib` `EDA` `Statistics`
 
-Analyzed **1,000+ Instagram posts** using Python and statistical methods to identify engagement drivers.
+**The Problem:** A content team had no data-driven understanding of what post types or patterns drive engagement on Instagram.
 
-**Highlights**
-- Built a full EDA workflow using Pandas, NumPy, and Matplotlib.
-- Found that carousel posts outperformed single images by **38% on average**.
-- Used statistical correlation analysis to discover engagement patterns.
-- Visualized content performance trends for clearer decision-making.
+**What I Built:** A complete EDA pipeline in Python analyzing 1,000+ Instagram posts — from data cleaning and feature engineering through statistical correlation analysis and trend visualization.
+
+**Key Results:**
+- 🎠 Found that **carousel posts outperform single images by 38%** on average engagement
+- 📊 Delivered correlation analysis identifying key engagement drivers by content type and timing
+- 🧩 Built reproducible visualizations to support ongoing content strategy decisions
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=youssef162004&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef162004&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=youssef162004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef162004&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=youssef162004&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-  />
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=youssef162004&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
 
 ---
 
-## 🎯 Professional Skills
+## 🤝 Professional Skills
 
-- Data Storytelling  
-- Presenting insights to non-technical stakeholders  
-- Report Writing  
-- Cross-functional Collaboration  
-- Analytical Thinking  
-- Critical Thinking  
-- Attention to Detail  
-- Root Cause Analysis  
-- Team Collaboration  
-- Time Management  
-- Adaptability  
-- Leadership  
+<div align="center">
+
+`Data Storytelling` · `Insight Presentation` · `Report Writing` · `Cross-functional Collaboration`  
+`Analytical Thinking` · `Critical Thinking` · `Root Cause Analysis` · `Attention to Detail`  
+`Team Collaboration` · `Time Management` · `Adaptability` · `Leadership`
+
+</div>
 
 ---
 
-## 🌍 Languages
+## 📫 Let's Connect
 
-- Arabic: Native  
-- English: Intermediate — B1  
+<div align="center">
 
----
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.ali.dev@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-elsawah-6317a225a)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youssef162004)
 
-## 📫 Contact Me
+<br/>
 
-<p align="center">
-  <a href="mailto:youssef.ali.dev@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/youssef-elsawah-6317a225a">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0052CC&height=100&section=footer" width="100%" />
 
----
-
-<h3 align="center">Thanks for visiting my profile 🚀</h3>
-
-<p align="center">
-  <i>Turning data into decisions.</i>
-</p>
+</div>
